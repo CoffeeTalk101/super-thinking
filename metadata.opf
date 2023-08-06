@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50dfa664-186f-4ca5-a811-1973d71d13d2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50dfa664-186f-4ca5-a811-1973d71d13d2</dc:identifier>
+        <dc:title>Super Thinking</dc:title>
+        <dc:creator opf:file-as="Weinberg, Gabriel &amp; McCann, Lauren" opf:role="aut">Gabriel Weinberg</dc:creator>
+        <dc:creator opf:file-as="Weinberg, Gabriel &amp; McCann, Lauren" opf:role="aut">Lauren McCann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-18T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;"You can't really know anything if you just remember isolated facts. If the facts don't hang together on a latticework of theory, you don't have them in a usable form. &lt;br&gt;&lt;i&gt;You've got to have models in your head.&lt;/i&gt;"&lt;br&gt;- Charlie Munger, investor, vice chairman of Berkshire Hathaway&lt;/b&gt;&lt;br&gt;The world's greatest problem-solvers, forecasters, and decision-makers all rely on a set of frameworks and shortcuts that help them cut through complexity and separate good ideas from bad ones. They're called mental models, and you can find them in dense textbooks on psychology, physics, economics, and more. &lt;br&gt;Or, you can just read Super Thinking, a fun, illustrated guide to every mental model you could possibly need. How can mental models help you? Well, here are just a few examples...&lt;br&gt; &lt;b&gt;*&lt;/b&gt; If you've ever been overwhelmed by a to-do list that's grown too long, maybe you need the &lt;b&gt;Eisenhower Decision Matrix&lt;/b&gt; to help you prioritize.&lt;br&gt; &lt;b&gt;*&lt;/b&gt; Use the &lt;b&gt;5 Whys&lt;/b&gt; model to...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Self-Development</dc:subject>
+        <dc:subject>Mental Models</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
